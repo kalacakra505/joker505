@@ -1,0 +1,2 @@
+Sitemap: https://joker505.pages.dev/sitemap.xml
+User-agent: *
